@@ -1,0 +1,32 @@
+<!DOCTYPE html> //HTML ATT
+<meta charset="UTF-8" /> //acentuacao
+<br> //quebra de linha
+Linha 2 <a href="http://www.alura.com.br">clique aqui</a> //texto com link
+
+//Linguagem JAVA
+<script> //Linguagem JAVA
+function pulaLinha() { //FUNÇÃO
+document.write("<br>");
+}
+var NOME; //variavel
+var NOME2 = valor;
+alert("Programação Java");
+document.write("TEXTO"); //escrever html em java
+pulaLinha();
+Math.round(media); //arredondar valor
+
+</script>
+
+==============================================================
+//INICIO
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<link rel="icon" href="favicon.png">
+<link rel=stylesheet href="cssteste.css">
+</head>
+
+
+
+
